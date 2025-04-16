@@ -1,0 +1,97 @@
+{ 
+    "GuildID": "1303021092130132092",
+    "GuildName": "buisinsuyucikti",
+    "owners": ["1303021092130132092", ""],
+    "BotDurum": ["oynuyor", "EnderNW"], 
+    "BotSesKanal": "1349720961556938834",
+    "realOwner": "1303021092130132092",
+    "AltBaşlık": "1362119395308077197",
+
+    "mongoUrl": "mongodb+srv://banannauygulama1:<db_password>@cluster0.scb0ytr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+
+    "Welcome": {
+    "Active": true,
+    "Tokens": [
+       "MTMwMzAyMTA5MjEzMDEzMjA5Mg.G6jWr4.MaD2FKQyelUySA6Njln6s3HQRE_iYVebGNGR-g",
+       "MTMwMzAyMTA5MjEzMDEzMjA5Mg.G6jWr4.MaD2FKQyelUySA6Njln6s3HQRE_iYVebGNGR-g",
+       "MTMwMzAyMTA5MjEzMDEzMjA5Mg.G6jWr4.MaD2FKQyelUySA6Njln6s3HQRE_iYVebGNGR-g",
+       "MTMwMzAyMTA5MjEzMDEzMjA5Mg.G6jWr4.MaD2FKQyelUySA6Njln6s3HQRE_iYVebGNGR-g",
+       "MTMwMzAyMTA5MjEzMDEzMjA5Mg.G6jWr4.MaD2FKQyelUySA6Njln6s3HQRE_iYVebGNGR-g"
+    ],
+    "Channels": [
+       "<#1362119361204326480>",
+       "<#1362119361204326480>",
+       "<#1362119361204326480>",
+       "<#1362119361204326480>",
+       "<#1362119361204326480>"
+    ]
+},
+
+
+    "Main": {
+    "ModerationToken": "",
+    "RegisterToken": "",
+    "StatsToken": "",
+
+    "prefix": [".", "!"],
+
+        "BotClientID": "",
+
+        "dmMessages": true,
+        "LevelSystem": true,
+  
+        "messageCount": 1,
+        "messageCoin": 0.2,
+        "voiceCount": 1,
+        "voiceCoin": 0.5,
+        "publicCoin": 2,
+        "inviteCount": 1,
+        "inviteCoin": 10,
+        "taggedCoin": 15,
+        "toplamsCoin": 4.5,
+        "yetkiCoin": 20,
+  
+        "banlimit": 5,
+        "jaillimit": 5,
+        "warnlimit": 5,
+        "chatmutelimit": 5,
+        "voicemutelimit": 5
+    },
+   "UrlGuardToken": "",
+
+"Guard": {
+    "Token": {
+        "Guard_I": "",
+        "Guard_II": "",
+        "Guard_III": "",
+
+        "TaçHesapToken": "",
+
+        "Dağıtıcı": [
+            ""
+        ]
+    },
+        "Limit": {
+            "Ban": 5,
+            "Kick": 5,
+            "RoleCreate": 5,
+            "ChannelCreate": 5,
+
+            "Reklam": 5,
+            "Etiket": 5,
+            "Satır": 5,
+            "Ekler": 5
+        },
+    
+        "Guard": {
+            "TaskDelay": 250,
+            "GiveRoleDelay": 500
+        },
+
+        "kufurEngel": true,
+        "spamEngel": true,
+        "capsEngel": true,
+        "reklamEngel": true
+
+    }
+}

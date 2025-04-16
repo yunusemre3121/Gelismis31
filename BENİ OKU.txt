@@ -1,0 +1,21 @@
+Merhaba Eðer videoyu izleyip anlamadýysan kýsaca özet geçicem
+* config.json dosyasýný komple doldur eksik bi yer býrakma
+* daha sonra klasörde cmd aç (shift basýp sað click > powershell aç)
+* o terminale "npm i" yaz kur sonra herþey kurulunca kapat 
+* baslat.bat çalýþtýr kullan
+
+Sunucuya tüm botlarý ekle intentlerini açmayý unutma
+* !setup yaz bi kanala ordan tek tek herþeyi kur, sunucunda olmayan sistemi kurma örnek: tag sistemi yoksa kurma
+* daha sonra herþeyi kurduktan sonra 
+* !kurulum yaz tek tek butonlara basýp sunucuya gerekli rolleri kanallarý emojileri kur(butonun birine bastýktan sonra 5dakika falan bekle öyle tekrar komutu yaz sonra diðer butonlara bas tek tek)
+
+Bunlarý yaptýktan sonra %80 bot tamamdýr.
+* daha sonra wraithsdev-public\Bots\Triple\src\configs dosyasýna gel ordan "ayarName.json", "sunucuayar.json" Doldur.
+
+bunlarý yaptýktan sonra %100 bot kurulmuþtur. bu kadar basit videoda zaten anlatýyorum kurulumlarý izliyebilirsin.
+
+
+Þuan Full Hatasýz En Güncel Public Botunu kullanýyorsun .d
+Düzenlenmiþtir: https://www.youtube.com/@WraithsDev
+Hata Alýrsan Caným Benim: discord.gg/vsc
+Projeyi Ýzinsiz Paylaþan veya Çalýp Satan olursa gerekli yasal iþlemler cayr0nix ve WraithsDev tarafýndan uygulanýr.
